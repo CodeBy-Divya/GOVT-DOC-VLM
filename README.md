@@ -10,7 +10,6 @@
 ![Model](https://img.shields.io/badge/Model-Qwen%203.5%20VLM-purple)
 ![Privacy](https://img.shields.io/badge/Runs-100%25%20Local-success)
 
-**Built by [Divya Singh](https://github.com/CodeBy-Divya)**
 
 </div>
 
