@@ -212,20 +212,10 @@ Set in `backend/config.py`:
 ## 👩‍💻 Author
 
 **Divya Singh**
-B.Tech Computer Science, IIT Patna · AI / ML Engineer · Data Analyst · Developer
+B.S.  Computer Science, IIT Patna · AI / ML Engineer · Data Analyst · Developer
 
-- GitHub: [@CodeBy-Divya](https://github.com/CodeBy-Divya)
-- LinkedIn: _add your link here_
-- Email: _add your email here_
+- GitHub: [@CodeBy-Divya](https://github.com/CodeBy-Divya
 
-## 🙏 Credits
 
-This project started from the open-source [GOVT-DOC-VLM](https://github.com/Maddy-V1/GOVT-DOC-VLM) by Maddy-V1, which I forked and continue to develop. It builds on [Qwen](https://github.com/QwenLM), [FastAPI](https://fastapi.tiangolo.com/), [PyMuPDF](https://pymupdf.readthedocs.io/), [Hugging Face Transformers](https://github.com/huggingface/transformers), [React](https://react.dev/) and [Vite](https://vitejs.dev/).
-
-## 📄 License
-
-Add a `LICENSE` file (for example MIT). If the original repo has a license, keep it compatible with that one.
-
----
 
 <div align="center">⭐ If this project helps you, consider giving it a star!</div>
